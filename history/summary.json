@@ -4,18 +4,20 @@
     "url": "https://templates.cloud.ai4eosc.eu/",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "ai-repository-template-generator-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 798,
-    "timeDay": 966,
-    "timeWeek": 733,
-    "timeMonth": 799,
-    "timeYear": 798,
-    "dailyMinutesDown": {}
+    "time": 802,
+    "timeDay": 1006,
+    "timeWeek": 773,
+    "timeMonth": 807,
+    "timeYear": 802,
+    "dailyMinutesDown": {
+      "2023-06-28": 0
+    }
   },
   {
     "name": "AI repository template generator (API)",
