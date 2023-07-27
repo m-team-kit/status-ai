@@ -5,19 +5,17 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "ai-repository-template-generator-web-app",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 846,
-    "timeDay": 725,
-    "timeWeek": 759,
-    "timeMonth": 931,
-    "timeYear": 846,
-    "dailyMinutesDown": {
-      "2023-07-26": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 853,
+    "timeDay": 1062,
+    "timeWeek": 844,
+    "timeMonth": 950,
+    "timeYear": 853,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AI repository template generator (API)",
@@ -25,18 +23,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "ai-repository-template-generator-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 97,
+    "timeDay": 113,
     "timeWeek": 117,
-    "timeMonth": 123,
+    "timeMonth": 122,
     "timeYear": 122,
-    "dailyMinutesDown": {
-      "2023-07-26": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
