@@ -10,34 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 989,
-    "timeDay": 776,
-    "timeWeek": 806,
-    "timeMonth": 1149,
-    "timeYear": 989,
+    "time": 988,
+    "timeDay": 774,
+    "timeWeek": 802,
+    "timeMonth": 1138,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2024-01-25": 39
-    }
-  },
-  {
-    "name": "AI repository template generator (API)",
-    "url": "https://templates.cloud.ai4eosc.eu/api/v1/",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
-    "slug": "ai-repository-template-generator-api",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.97%",
-    "time": 123,
-    "timeDay": 294,
-    "timeWeek": 149,
-    "timeMonth": 140,
-    "timeYear": 123,
-    "dailyMinutesDown": {
-      "2024-02-02": 0,
-      "2024-01-25": 114
     }
   }
 ]
