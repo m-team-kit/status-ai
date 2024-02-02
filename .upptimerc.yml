@@ -8,9 +8,9 @@ sites:
     url: https://templates.cloud.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
   # cookiecutter-web API
-  - name: AI repository template generator (API)
-    url: https://templates.cloud.ai4eosc.eu/api/v1/
-    icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
+  #- name: AI repository template generator (API)
+  #  url: https://templates.cloud.ai4eosc.eu/api/v1/
+  #  icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
 assignees: # Users to assign downtime issues (optional)
   - vykozlov
   - BorjaEst
