@@ -40,7 +40,7 @@ status-website:
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status monitoring for the AI-related services
   introTitle: "Status monitoring for the AI-related services"
-  introMessage: This is a status page which uses **real-time** data from our [AI repository template service](https://templates.cloud.ai4eosc.eu)
+  introMessage: This is a status page which uses **real-time** data from our AI-related services
   navbar:
     - title: Status monitoring
       href: /
