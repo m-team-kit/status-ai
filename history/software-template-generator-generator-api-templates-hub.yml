@@ -1,7 +1,7 @@
-url: https://templates.cloud.ai4eosc.eu/api/v1/
-status: down
-code: 404
-responseTime: 1517
-lastUpdated: 2024-02-03T12:11:34.500Z
+url: https://templates.services.fedcloud.eu/api/latest/docs
+status: up
+code: 200
+responseTime: 91
+lastUpdated: 2024-02-03T12:22:34.136Z
 startTime: 2024-02-03T12:11:32.602Z
 generator: Upptime <https://github.com/upptime/upptime>
