@@ -9,7 +9,7 @@ sites:
     icon: https://raw.githubusercontent.com/m-team-kit/templates-hub/main/pictures/cookiecutter_simple_small.png
   # cookiecutter-web API (Templates Hub)
   - name: Software template generator generator (API) (Templates Hub)
-    url: https://templates.cloud.ai4eosc.eu/api/v1/
+    url: https://templates.services.fedcloud.eu/api/latest/docs
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
   # cookiecutter-web Frontend (AI4EOSC)
   - name: Software template generator (WebApp) (AI4EOSC)
@@ -18,10 +18,16 @@ sites:
   # mlflow instance (AI4EOSC)
   - name: MLflow UI (AI4EOSC)
     url: https://mlflow.dev.ai4eosc.eu/
+    expectedStatusCodes:
+      - 200
+      - 401
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
   # mlflow instance (iMagine)
   - name: MLflow UI (iMagine)
     url: https://mlflow.dev.imagine-ai.eu/
+    expectedStatusCodes:
+      - 200
+      - 401
     icon: https://cdn.imagine-ai.eu/app/uploads/2023/02/logo-imagine-full-blue.png
 assignees: # Users to assign downtime issues (optional)
   - vykozlov
