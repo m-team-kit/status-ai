@@ -58,19 +58,19 @@
     "url": "https://mlflow.dev.ai4eosc.eu/",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "m-lflow-ui-ai-4-eosc",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 828,
-    "timeDay": 787,
-    "timeWeek": 828,
-    "timeMonth": 828,
-    "timeYear": 828,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 814,
+    "timeDay": 748,
+    "timeWeek": 814,
+    "timeMonth": 814,
+    "timeYear": 814,
     "dailyMinutesDown": {
-      "2024-02-08": 17
+      "2024-02-08": 29
     }
   },
   {
