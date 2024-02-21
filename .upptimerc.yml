@@ -15,9 +15,9 @@ sites:
   - name: AI repository template generator (UI) (AI4EOSC)
     url: https://templates.cloud.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-  # mlflow instance (AI4EOSC)
-  - name: MLflow UI (AI4EOSC)
-    url: https://mlflow.dev.ai4eosc.eu/
+  # mlflow instance (AI4EOSC)(Prod)
+  - name: MLflow UI (AI4EOSC)(Prod)
+    url: https://mlflow.cloud.ai4eosc.eu/
     expectedStatusCodes:
       - 200
       - 401
