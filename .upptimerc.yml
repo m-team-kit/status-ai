@@ -22,9 +22,9 @@ sites:
       - 200
       - 401
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-  # mlflow instance (iMagine)
-  - name: MLflow UI (iMagine)
-    url: https://mlflow.dev.imagine-ai.eu/
+  # mlflow instance (iMagine)(Prod)
+  - name: MLflow UI (iMagine)(Prod)
+    url: https://mlflow.cloud.imagine-ai.eu/
     expectedStatusCodes:
       - 200
       - 401
