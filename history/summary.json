@@ -40,10 +40,10 @@
     "url": "https://templates.cloud.ai4eosc.eu/",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "ai-repository-template-generator-ui-ai-4-eosc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
     "time": 911,
@@ -52,6 +52,7 @@
     "timeMonth": 906,
     "timeYear": 911,
     "dailyMinutesDown": {
+      "2024-03-04": 1,
       "2024-03-01": 51
     }
   },
@@ -60,9 +61,9 @@
     "url": "https://mlflow.cloud.ai4eosc.eu/",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "m-lflow-ui-ai-4-eosc-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +72,9 @@
     "timeWeek": 941,
     "timeMonth": 922,
     "timeYear": 922,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-04": 0
+    }
   },
   {
     "name": "MLflow UI (iMagine)(Prod)",
