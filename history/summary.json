@@ -4,36 +4,40 @@
     "url": "https://templates.services.fedcloud.eu/",
     "icon": "https://raw.githubusercontent.com/m-team-kit/templates-hub/main/pictures/cookiecutter_simple_small.png",
     "slug": "software-template-generator-ui-templates-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 587,
     "timeDay": 769,
-    "timeWeek": 634,
+    "timeWeek": 664,
     "timeMonth": 577,
     "timeYear": 587,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-04": 0
+    }
   },
   {
     "name": "Software template generator (API) (Templates Hub)",
     "url": "https://templates.services.fedcloud.eu/api/latest/docs",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "software-template-generator-api-templates-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 152,
-    "timeWeek": 138,
+    "timeWeek": 143,
     "timeMonth": 120,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-04": 0
+    }
   },
   {
     "name": "AI repository template generator (UI) (AI4EOSC)",
@@ -48,7 +52,7 @@
     "uptimeYear": "99.82%",
     "time": 905,
     "timeDay": 862,
-    "timeWeek": 962,
+    "timeWeek": 965,
     "timeMonth": 899,
     "timeYear": 905,
     "dailyMinutesDown": {
@@ -69,7 +73,7 @@
     "uptimeYear": "99.83%",
     "time": 972,
     "timeDay": 1372,
-    "timeWeek": 1021,
+    "timeWeek": 1045,
     "timeMonth": 972,
     "timeYear": 972,
     "dailyMinutesDown": {
@@ -89,7 +93,7 @@
     "uptimeYear": "100.00%",
     "time": 927,
     "timeDay": 975,
-    "timeWeek": 927,
+    "timeWeek": 961,
     "timeMonth": 927,
     "timeYear": 927,
     "dailyMinutesDown": {}
