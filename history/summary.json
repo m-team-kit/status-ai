@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
-    "time": 577,
-    "timeDay": 494,
-    "timeWeek": 551,
-    "timeMonth": 581,
-    "timeYear": 577,
+    "time": 582,
+    "timeDay": 781,
+    "timeWeek": 597,
+    "timeMonth": 589,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2024-03-04": 48
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
-    "time": 121,
-    "timeDay": 104,
-    "timeWeek": 123,
-    "timeMonth": 123,
-    "timeYear": 121,
+    "time": 122,
+    "timeDay": 181,
+    "timeWeek": 135,
+    "timeMonth": 126,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2024-03-04": 48
     }
@@ -45,16 +45,16 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "ai-repository-template-generator-ui-ai-4-eosc",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.85%",
-    "time": 888,
-    "timeDay": 700,
-    "timeWeek": 832,
-    "timeMonth": 878,
-    "timeYear": 888,
+    "uptimeYear": "99.86%",
+    "time": 893,
+    "timeDay": 1096,
+    "timeWeek": 887,
+    "timeMonth": 884,
+    "timeYear": 893,
     "dailyMinutesDown": {
       "2024-03-04": 29,
       "2024-03-01": 51
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 968,
-    "timeDay": 1492,
-    "timeWeek": 1005,
-    "timeMonth": 968,
-    "timeYear": 968,
+    "time": 979,
+    "timeDay": 1218,
+    "timeWeek": 1042,
+    "timeMonth": 979,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2024-03-04": 29
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 853,
-    "timeDay": 635,
-    "timeWeek": 786,
-    "timeMonth": 853,
-    "timeYear": 853,
+    "time": 855,
+    "timeDay": 889,
+    "timeWeek": 816,
+    "timeMonth": 855,
+    "timeYear": 855,
     "dailyMinutesDown": {}
   }
 ]
