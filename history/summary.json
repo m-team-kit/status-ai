@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
-    "time": 598,
-    "timeDay": 828,
-    "timeWeek": 719,
+    "time": 595,
+    "timeDay": 462,
+    "timeWeek": 663,
     "timeMonth": 614,
-    "timeYear": 598,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2024-03-04": 48
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
     "time": 124,
-    "timeDay": 160,
-    "timeWeek": 137,
+    "timeDay": 104,
+    "timeWeek": 129,
     "timeMonth": 130,
     "timeYear": 124,
     "dailyMinutesDown": {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.89%",
-    "time": 898,
-    "timeDay": 1030,
-    "timeWeek": 988,
-    "timeMonth": 905,
-    "timeYear": 898,
+    "time": 897,
+    "timeDay": 872,
+    "timeWeek": 966,
+    "timeMonth": 907,
+    "timeYear": 897,
     "dailyMinutesDown": {
       "2024-03-04": 29,
       "2024-03-01": 51
@@ -66,16 +66,16 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "m-lflow-ui-ai-4-eosc-prod",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1076,
-    "timeDay": 5167,
-    "timeWeek": 1571,
-    "timeMonth": 1089,
-    "timeYear": 1076,
+    "uptimeYear": "99.94%",
+    "time": 1066,
+    "timeDay": 724,
+    "timeWeek": 1522,
+    "timeMonth": 1087,
+    "timeYear": 1066,
     "dailyMinutesDown": {
       "2024-03-04": 29
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 901,
-    "timeDay": 1044,
-    "timeWeek": 1097,
-    "timeMonth": 901,
-    "timeYear": 901,
+    "time": 896,
+    "timeDay": 762,
+    "timeWeek": 1056,
+    "timeMonth": 896,
+    "timeYear": 896,
     "dailyMinutesDown": {}
   }
 ]
