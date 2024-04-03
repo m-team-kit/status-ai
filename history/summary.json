@@ -65,9 +65,9 @@
     "url": "https://mlflow.cloud.ai4eosc.eu/",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "m-lflow-ui-ai-4-eosc-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
@@ -77,6 +77,7 @@
     "timeMonth": 1066,
     "timeYear": 1021,
     "dailyMinutesDown": {
+      "2024-04-03": 0,
       "2024-03-04": 29
     }
   },
