@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 625,
-    "timeDay": 624,
-    "timeWeek": 605,
-    "timeMonth": 681,
-    "timeYear": 625,
+    "time": 624,
+    "timeDay": 506,
+    "timeWeek": 608,
+    "timeMonth": 659,
+    "timeYear": 624,
     "dailyMinutesDown": {
       "2024-03-04": 48
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 127,
-    "timeDay": 126,
-    "timeWeek": 125,
-    "timeMonth": 130,
-    "timeYear": 127,
+    "time": 126,
+    "timeDay": 111,
+    "timeWeek": 126,
+    "timeMonth": 128,
+    "timeYear": 126,
     "dailyMinutesDown": {
       "2024-03-04": 48
     }
@@ -45,16 +45,16 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "ai-repository-template-generator-ui-ai-4-eosc",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 922,
-    "timeDay": 870,
-    "timeWeek": 918,
-    "timeMonth": 961,
-    "timeYear": 922,
+    "uptimeYear": "99.94%",
+    "time": 921,
+    "timeDay": 855,
+    "timeWeek": 923,
+    "timeMonth": 944,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2024-03-04": 29,
       "2024-03-01": 51
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.90%",
-    "time": 972,
-    "timeDay": 1026,
-    "timeWeek": 866,
-    "timeMonth": 893,
-    "timeYear": 972,
+    "time": 970,
+    "timeDay": 829,
+    "timeWeek": 872,
+    "timeMonth": 884,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2024-04-03": 66,
       "2024-03-04": 29
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.94%",
-    "time": 880,
-    "timeDay": 800,
-    "timeWeek": 758,
-    "timeMonth": 877,
-    "timeYear": 880,
+    "time": 877,
+    "timeDay": 666,
+    "timeWeek": 760,
+    "timeMonth": 855,
+    "timeYear": 877,
     "dailyMinutesDown": {
       "2024-04-03": 54
     }
