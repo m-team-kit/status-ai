@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 625,
-    "timeDay": 749,
-    "timeWeek": 647,
-    "timeMonth": 659,
-    "timeYear": 625,
+    "time": 627,
+    "timeDay": 773,
+    "timeWeek": 611,
+    "timeMonth": 665,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2024-03-04": 48
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 127,
-    "timeDay": 181,
+    "time": 128,
+    "timeDay": 178,
     "timeWeek": 136,
-    "timeMonth": 128,
-    "timeYear": 127,
+    "timeMonth": 130,
+    "timeYear": 128,
     "dailyMinutesDown": {
       "2024-03-04": 48
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 923,
-    "timeDay": 1128,
-    "timeWeek": 949,
-    "timeMonth": 946,
-    "timeYear": 923,
+    "time": 925,
+    "timeDay": 1121,
+    "timeWeek": 921,
+    "timeMonth": 957,
+    "timeYear": 925,
     "dailyMinutesDown": {
       "2024-03-04": 29,
       "2024-03-01": 51
@@ -66,16 +66,16 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "m-lflow-ui-ai-4-eosc-prod",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.90%",
-    "time": 970,
-    "timeDay": 941,
-    "timeWeek": 900,
-    "timeMonth": 877,
-    "timeYear": 970,
+    "uptimeYear": "99.91%",
+    "time": 1020,
+    "timeDay": 4652,
+    "timeWeek": 1402,
+    "timeMonth": 1001,
+    "timeYear": 1020,
     "dailyMinutesDown": {
       "2024-04-03": 66,
       "2024-03-04": 29
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.94%",
-    "time": 879,
-    "timeDay": 1038,
-    "timeWeek": 817,
-    "timeMonth": 854,
-    "timeYear": 879,
+    "time": 883,
+    "timeDay": 1120,
+    "timeWeek": 823,
+    "timeMonth": 868,
+    "timeYear": 883,
     "dailyMinutesDown": {
       "2024-04-03": 54
     }
