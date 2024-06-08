@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 657,
-    "timeDay": 662,
-    "timeWeek": 980,
-    "timeMonth": 754,
-    "timeYear": 657,
+    "time": 661,
+    "timeDay": 1237,
+    "timeWeek": 1011,
+    "timeMonth": 776,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2024-03-04": 48
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 128,
-    "timeDay": 157,
-    "timeWeek": 131,
-    "timeMonth": 130,
-    "timeYear": 128,
+    "time": 129,
+    "timeDay": 175,
+    "timeWeek": 140,
+    "timeMonth": 132,
+    "timeYear": 129,
     "dailyMinutesDown": {
       "2024-03-04": 48
     }
@@ -45,18 +45,19 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "ai-repository-template-generator-ui-ai-4-eosc",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.71%",
+    "uptimeDay": "68.67%",
+    "uptimeWeek": "95.52%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "99.71%",
     "time": 965,
-    "timeDay": 981,
-    "timeWeek": 1048,
-    "timeMonth": 999,
+    "timeDay": 0,
+    "timeWeek": 959,
+    "timeMonth": 1007,
     "timeYear": 965,
     "dailyMinutesDown": {
-      "2024-06-07": 0,
+      "2024-06-08": 60,
+      "2024-06-07": 391,
       "2024-03-04": 29,
       "2024-03-01": 51
     }
@@ -72,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1018,
-    "timeDay": 645,
-    "timeWeek": 848,
-    "timeMonth": 920,
-    "timeYear": 1018,
+    "time": 1021,
+    "timeDay": 1398,
+    "timeWeek": 906,
+    "timeMonth": 935,
+    "timeYear": 1021,
     "dailyMinutesDown": {
       "2024-04-03": 66,
       "2024-03-04": 29
@@ -93,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 874,
-    "timeDay": 649,
-    "timeWeek": 879,
-    "timeMonth": 867,
-    "timeYear": 874,
+    "time": 884,
+    "timeDay": 1923,
+    "timeWeek": 1058,
+    "timeMonth": 908,
+    "timeYear": 884,
     "dailyMinutesDown": {
       "2024-04-03": 54
     }
