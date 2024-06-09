@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 661,
-    "timeDay": 1237,
-    "timeWeek": 1011,
-    "timeMonth": 776,
-    "timeYear": 661,
+    "time": 660,
+    "timeDay": 457,
+    "timeWeek": 930,
+    "timeMonth": 771,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2024-03-04": 48
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 129,
-    "timeDay": 175,
+    "time": 128,
+    "timeDay": 105,
     "timeWeek": 140,
-    "timeMonth": 132,
-    "timeYear": 129,
+    "timeMonth": 131,
+    "timeYear": 128,
     "dailyMinutesDown": {
       "2024-03-04": 48
     }
@@ -46,15 +46,15 @@
     "slug": "ai-repository-template-generator-ui-ai-4-eosc",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "37.68%",
+    "uptimeDay": "69.40%",
     "uptimeWeek": "91.10%",
     "uptimeMonth": "97.95%",
     "uptimeYear": "99.46%",
-    "time": 966,
-    "timeDay": 1105,
-    "timeWeek": 980,
+    "time": 965,
+    "timeDay": 1024,
+    "timeWeek": 1014,
     "timeMonth": 1010,
-    "timeYear": 966,
+    "timeYear": 965,
     "dailyMinutesDown": {
       "2024-06-08": 506,
       "2024-06-07": 391,
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1021,
-    "timeDay": 1398,
-    "timeWeek": 906,
-    "timeMonth": 935,
-    "timeYear": 1021,
+    "time": 1016,
+    "timeDay": 445,
+    "timeWeek": 874,
+    "timeMonth": 918,
+    "timeYear": 1016,
     "dailyMinutesDown": {
       "2024-04-03": 66,
       "2024-03-04": 29
@@ -94,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 884,
-    "timeDay": 1923,
-    "timeWeek": 1058,
-    "timeMonth": 908,
-    "timeYear": 884,
+    "time": 886,
+    "timeDay": 1115,
+    "timeWeek": 1113,
+    "timeMonth": 924,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2024-04-03": 54
     }
