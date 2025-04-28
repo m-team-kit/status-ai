@@ -88,10 +88,10 @@
     "url": "https://mlflow.cloud.ai4eosc.eu/",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "m-lflow-ui-ai-4-eosc-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 959,
@@ -100,6 +100,7 @@
     "timeMonth": 796,
     "timeYear": 957,
     "dailyMinutesDown": {
+      "2025-04-28": 1,
       "2025-01-07": 99,
       "2024-12-17": 39
     }
@@ -109,10 +110,10 @@
     "url": "https://mlflow.cloud.imagine-ai.eu/",
     "icon": "https://cdn.imagine-ai.eu/app/uploads/2023/02/logo-imagine-full-blue.png",
     "slug": "m-lflow-ui-i-magine-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 963,
@@ -121,6 +122,7 @@
     "timeMonth": 982,
     "timeYear": 978,
     "dailyMinutesDown": {
+      "2025-04-28": 1,
       "2025-01-20": 40
     }
   }
