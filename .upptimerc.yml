@@ -29,6 +29,13 @@ sites:
       - 200
       - 401
     icon: https://cdn.imagine-ai.eu/app/uploads/2023/02/logo-imagine-full-blue.png
+    # mlflow instance (AI4EOSC)(Prod)
+  - name: MLflow UI (SCC)(Prod)
+    url: https://mlflow.scc.kit.edu/
+    expectedStatusCodes:
+      - 200
+      - 401
+    icon: https://www.scc.kit.edu/img/%c3%96KO/scc-gebaeude-cn.jpg
 assignees: # Users to assign downtime issues (optional)
   - vykozlov
   - BorjaEst
