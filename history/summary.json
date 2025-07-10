@@ -11,10 +11,10 @@
     "uptimeMonth": "98.49%",
     "uptimeYear": "99.64%",
     "time": 743,
-    "timeDay": 819,
+    "timeDay": 835,
     "timeWeek": 643,
-    "timeMonth": 651,
-    "timeYear": 753,
+    "timeMonth": 660,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2025-06-17": 623,
       "2025-06-16": 0,
@@ -26,8 +26,7 @@
       "2024-12-03": 365,
       "2024-11-25": 19,
       "2024-11-19": 64,
-      "2024-10-17": 35,
-      "2024-07-10": 253
+      "2024-10-17": 35
     }
   },
   {
@@ -43,8 +42,8 @@
     "uptimeYear": "99.64%",
     "time": 135,
     "timeDay": 179,
-    "timeWeek": 130,
-    "timeMonth": 134,
+    "timeWeek": 139,
+    "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
       "2025-06-17": 623,
@@ -56,8 +55,7 @@
       "2024-12-03": 365,
       "2024-11-25": 19,
       "2024-11-19": 63,
-      "2024-10-17": 34,
-      "2024-07-10": 253
+      "2024-10-17": 34
     }
   },
   {
@@ -71,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "99.59%",
-    "time": 1027,
-    "timeDay": 1076,
-    "timeWeek": 830,
-    "timeMonth": 851,
-    "timeYear": 1018,
+    "time": 1026,
+    "timeDay": 1022,
+    "timeWeek": 873,
+    "timeMonth": 855,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2025-06-17": 622,
       "2025-06-10": 35,
@@ -87,8 +85,7 @@
       "2024-11-25": 18,
       "2024-11-19": 63,
       "2024-11-10": 47,
-      "2024-10-17": 226,
-      "2024-07-10": 252
+      "2024-10-17": 226
     }
   },
   {
@@ -97,16 +94,16 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "m-lflow-ui-ai-4-eosc-prod",
     "status": "up",
-    "uptime": "98.60%",
+    "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.09%",
-    "time": 937,
-    "timeDay": 881,
-    "timeWeek": 787,
+    "time": 938,
+    "timeDay": 901,
+    "timeWeek": 758,
     "timeMonth": 770,
-    "timeYear": 898,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2025-05-05": 594,
       "2025-05-04": 1440,
@@ -131,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.90%",
-    "time": 955,
-    "timeDay": 893,
-    "timeWeek": 790,
-    "timeMonth": 842,
-    "timeYear": 972,
+    "time": 957,
+    "timeDay": 1528,
+    "timeWeek": 895,
+    "timeMonth": 870,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2025-05-02": 772,
       "2025-05-01": 1440,
@@ -156,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 706,
-    "timeDay": 944,
-    "timeWeek": 706,
-    "timeMonth": 706,
-    "timeYear": 706,
+    "time": 741,
+    "timeDay": 979,
+    "timeWeek": 741,
+    "timeMonth": 741,
+    "timeYear": 741,
     "dailyMinutesDown": {}
   }
 ]
