@@ -149,9 +149,9 @@
     "url": "https://mlflow.scc.kit.edu/",
     "icon": "https://www.scc.kit.edu/img/%c3%96KO/scc-gebaeude-cn.jpg",
     "slug": "m-lflow-ui-scc-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -160,6 +160,8 @@
     "timeWeek": 767,
     "timeMonth": 718,
     "timeYear": 732,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-05": 0
+    }
   }
 ]
