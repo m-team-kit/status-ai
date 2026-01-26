@@ -58,7 +58,7 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "ai-repository-template-generator-ui-ai-4-eosc",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -140,9 +140,9 @@
     "url": "https://mlflow.scc.kit.edu/",
     "icon": "https://www.scc.kit.edu/img/%c3%96KO/scc-gebaeude-cn.jpg",
     "slug": "m-lflow-ui-scc-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -152,6 +152,7 @@
     "timeMonth": 770,
     "timeYear": 736,
     "dailyMinutesDown": {
+      "2026-01-26": 0,
       "2025-12-22": 194,
       "2025-11-05": 111
     }
