@@ -7,14 +7,17 @@ sites:
   - name: Software template generator (UI) (Templates Hub)
     url: https://templates.services.fedcloud.eu/
     icon: https://raw.githubusercontent.com/m-team-kit/templates-hub/main/pictures/cookiecutter_simple_small.png
+
   # cookiecutter-web API (Templates Hub)
   - name: Software template generator (API) (Templates Hub)
     url: https://templates.services.fedcloud.eu/api/latest/docs
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
+
   # cookiecutter-web Frontend (AI4EOSC)
   - name: AI repository template generator (UI) (AI4EOSC)
     url: https://templates.cloud.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+
   # mlflow instance (AI4EOSC)(Prod)
   - name: MLflow UI (AI4EOSC)(Prod)
     url: https://mlflow.cloud.ai4eosc.eu/
@@ -22,6 +25,7 @@ sites:
       - 200
       - 401
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+
   # mlflow instance (iMagine)(Prod)
   - name: MLflow UI (iMagine)(Prod)
     url: https://mlflow.cloud.imagine-ai.eu/
@@ -29,16 +33,20 @@ sites:
       - 200
       - 401
     icon: https://cdn.imagine-ai.eu/app/uploads/2023/02/logo-imagine-full-blue.png
-    # mlflow instance (AI4EOSC)(Prod)
+
+  # mlflow instance (AI4EOSC)(Prod)
   - name: MLflow UI (SCC)(Prod)
     url: https://mlflow.scc.kit.edu/
     expectedStatusCodes:
       - 200
       - 401
     icon: https://www.scc.kit.edu/img/%c3%96KO/scc-gebaeude-cn.jpg
-assignees: # Users to assign downtime issues (optional)
+
+# Users to assign downtime issues (optional)
+assignees:
   - vykozlov
   - lisanaberberi
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
