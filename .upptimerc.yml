@@ -48,7 +48,7 @@ sites:
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
 
   # community forum (AI4EOSC)(Prod)
-  - name: AI Community in EOSC Helpdesk (Prod)
+  - name: AI Community in EOSC (Prod)
     url: https://community.cloud.ai4eosc.eu/
     icon: https://community.cloud.ai4eosc.eu/uploads/default/original/1X/650b958dafabd75d48a8ca187bf969e80bf24bc4.svg
 
