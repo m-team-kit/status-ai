@@ -42,6 +42,16 @@ sites:
       - 401
     icon: https://www.scc.kit.edu/img/%c3%96KO/scc-gebaeude-cn.jpg
 
+  # helpdesk instance (AI4EOSC)(Prod)
+  - name: AI4EOSC Helpdesk (Prod)
+    url: https://helpdesk.cloud.ai4eosc.eu/
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+
+  # community forum (AI4EOSC)(Prod)
+  - name: AI Community in EOSC Helpdesk (Prod)
+    url: https://community.cloud.ai4eosc.eu/
+    icon: https://community.cloud.ai4eosc.eu/uploads/default/original/1X/650b958dafabd75d48a8ca187bf969e80bf24bc4.svg
+
 # Users to assign downtime issues (optional)
 assignees:
   - vykozlov
