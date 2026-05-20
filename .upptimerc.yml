@@ -5,8 +5,9 @@ repo: status-ai # The name of this repository
 sites:
   # cookiecutter-web Frontend (Templates Hub)
   - name: Software template generator (UI) (Templates Hub)
-    url: https://templates.services.fedcloud.eu/
+    url: https://templates.services.fedcloud.eu
     icon: https://raw.githubusercontent.com/m-team-kit/templates-hub/main/pictures/cookiecutter_simple_small.png
+    maxResponseTime: 30000
 
   # cookiecutter-web API (Templates Hub)
   - name: Software template generator (API) (Templates Hub)
@@ -15,12 +16,12 @@ sites:
 
   # cookiecutter-web Frontend (AI4EOSC)
   - name: AI repository template generator (UI) (AI4EOSC)
-    url: https://templates.cloud.ai4eosc.eu/
+    url: https://templates.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
 
   # mlflow instance (AI4EOSC)(Prod)
   - name: MLflow UI (AI4EOSC)(Prod)
-    url: https://mlflow.cloud.ai4eosc.eu/
+    url: https://mlflow.cloud.ai4eosc.eu
     expectedStatusCodes:
       - 200
       - 401
@@ -28,7 +29,7 @@ sites:
 
   # mlflow instance (iMagine)(Prod)
   - name: MLflow UI (iMagine)(Prod)
-    url: https://mlflow.cloud.imagine-ai.eu/
+    url: https://mlflow.cloud.imagine-ai.eu
     expectedStatusCodes:
       - 200
       - 401
@@ -36,7 +37,7 @@ sites:
 
   # mlflow instance (AI4EOSC)(Prod)
   - name: MLflow UI (SCC)(Prod)
-    url: https://mlflow.scc.kit.edu/
+    url: https://mlflow.scc.kit.edu
     expectedStatusCodes:
       - 200
       - 401
@@ -44,12 +45,12 @@ sites:
 
   # helpdesk instance (AI4EOSC)(Prod)
   - name: AI4EOSC Helpdesk (Prod)
-    url: https://helpdesk.cloud.ai4eosc.eu/
+    url: https://helpdesk.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
 
   # community forum (AI4EOSC)(Prod)
   - name: AI Community (EOSC)(Prod)
-    url: https://community.cloud.ai4eosc.eu/
+    url: https://community.cloud.ai4eosc.eu
     icon: https://community.cloud.ai4eosc.eu/uploads/default/original/1X/650b958dafabd75d48a8ca187bf969e80bf24bc4.svg
 
 
