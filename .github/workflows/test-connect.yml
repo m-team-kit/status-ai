@@ -22,6 +22,24 @@ jobs:
           echo "HOST=${HOST}"
           echo "URL=${URL}"
 
+      - name: Test using Node.js fetch
+        run: |
+          node -e '
+            const start = Date.now();
+            fetch(process.env.URL)
+              .then(async r => {
+                console.log("Status:", r.status);
+                console.log("Elapsed:", Date.now() - start, "ms");
+                console.log("Length:", (await r.text()).length);
+              })
+              .catch(err => {
+                console.error(err);
+                process.exit(1);
+              });
+          '
+        env:
+          URL: ${{ env.URL }}
+
       - name: DNS lookup
         run: |
           dig "${HOST}"
