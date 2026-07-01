@@ -1,0 +1,3 @@
+- name: Test connectivity
+  run: |
+    curl -v https://templates.cloud.ai4eosc.eu/
