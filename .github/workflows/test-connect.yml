@@ -163,6 +163,6 @@ jobs:
             -servername "${HOST}" \
             </dev/null
 
-      - name: Trace route
-        run: |
-          traceroute "${HOST}" || true
+#      - name: Trace route
+#        run: |
+#          traceroute "${HOST}" || true
