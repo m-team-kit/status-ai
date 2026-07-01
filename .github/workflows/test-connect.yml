@@ -4,8 +4,10 @@ on:
   workflow_dispatch:
 
 env:
-  HOST: templates.cloud.ai4eosc.eu
-  URL: https://templates.cloud.ai4eosc.eu/
+  #HOST: templates.cloud.ai4eosc.eu
+  #URL: https://templates.cloud.ai4eosc.eu/
+  HOST: mlflow.cloud.ai4eosc.eu
+  URL: https://mlflow.cloud.ai4eosc.eu/
 
 jobs:
   diagnostics:
