@@ -14,6 +14,17 @@ sites:
     url: https://templates.services.fedcloud.eu/api/latest/docs
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
 
+  # cookiecutter-web Frontend (SCC)
+  - name: Software template generator (UI) (SCC)
+    url: https://templates.scc.kit.edu
+    icon: https://raw.githubusercontent.com/m-team-kit/templates-hub/main/pictures/cookiecutter_simple_small.png
+    maxResponseTime: 30000
+
+  # cookiecutter-web API (SCC)
+  - name: Software template generator (API) (SCC)
+    url: https://templates.scc.kit.edu/api/latest/docs
+    icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
+
   # cookiecutter-web Frontend (AI4EOSC)
   - name: AI repository template generator (UI) (AI4EOSC)
     url: https://templates.cloud.ai4eosc.eu
