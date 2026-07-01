@@ -1,3 +1,57 @@
-- name: Test connectivity
-  run: |
-    curl -v https://templates.cloud.ai4eosc.eu/
+name: Network Diagnostics
+
+on:
+  workflow_dispatch:
+
+env:
+  HOST: templates.cloud.ai4eosc.eu
+  URL: https://templates.cloud.ai4eosc.eu/
+
+jobs:
+  diagnostics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install networking tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y dnsutils traceroute
+
+      - name: Show configuration
+        run: |
+          echo "HOST=${HOST}"
+          echo "URL=${URL}"
+
+      - name: DNS lookup
+        run: |
+          dig "${HOST}"
+          dig "${HOST}" A
+          dig "${HOST}" AAAA
+
+      - name: Test with curl
+        run: |
+          curl \
+            --connect-timeout 10 \
+            --max-time 30 \
+            --verbose \
+            "${URL}"
+
+      - name: Test IPv4 explicitly
+        run: |
+          curl \
+            -4 \
+            --connect-timeout 10 \
+            --max-time 30 \
+            --verbose \
+            "${URL}"
+
+      - name: Show TLS certificate
+        run: |
+          openssl s_client \
+            -connect "${HOST}:443" \
+            -servername "${HOST}" \
+            </dev/null
+
+      - name: Trace route
+        run: |
+          traceroute "${HOST}" || true
