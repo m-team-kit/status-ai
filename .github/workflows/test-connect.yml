@@ -39,7 +39,12 @@ jobs:
               console.log(err || addr);
             });
           '
-
+      - name: Debug Node HTTPS
+        run: |
+          openssl s_client \
+            -connect templates.cloud.ai4eosc.eu:443 \
+            -servername templates.cloud.ai4eosc.eu
+    
       - name: Debug Node HTTPS
         run: |
           node -e '
