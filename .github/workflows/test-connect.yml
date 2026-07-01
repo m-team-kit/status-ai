@@ -40,17 +40,66 @@ jobs:
             });
           '
 
-      - name: Test https module
+      - name: Debug Node HTTPS
         run: |
           node -e '
             const https = require("https");
-
-            const req = https.get(process.env.URL, res => {
-              console.log("status", res.statusCode);
-              res.resume();
+      
+            console.log("Starting");
+      
+            const req = https.request(process.env.URL, res => {
+              console.log("Response:", res.statusCode);
+              res.on("data", () => {});
+              res.on("end", () => console.log("End"));
             });
-            req.on("error", console.error);
+      
+            req.on("socket", socket => {
+              console.log("Socket created");
+      
+              socket.on("lookup", (err, address, family) => {
+                console.log("lookup", err, address, family);
+              });
+      
+              socket.on("connect", () => {
+                console.log("TCP connected");
+              });
+      
+              socket.on("secureConnect", () => {
+                console.log("TLS connected");
+              });
+      
+              socket.on("timeout", () => {
+                console.log("Socket timeout");
+              });
+      
+              socket.on("error", err => {
+                console.log("Socket error", err);
+              });
+            });
+      
+            req.on("error", err => {
+              console.error("Request error", err);
+            });
+      
+            req.setTimeout(10000, () => {
+              console.log("Request timeout");
+              req.destroy();
+            });
+      
+            req.end();
           '
+
+#      - name: Test https module
+#        run: |
+#          node -e '
+#            const https = require("https");
+#
+#            const req = https.get(process.env.URL, res => {
+#              console.log("status", res.statusCode);
+#              res.resume();
+#            });
+#            req.on("error", console.error);
+#          '
 
       - name: Node IPv4 first
         run: |
