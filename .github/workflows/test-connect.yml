@@ -39,11 +39,11 @@ jobs:
               console.log(err || addr);
             });
           '
-#      - name: OpenSSL connection
-#        run: |
-#          openssl s_client \
-#            -connect templates.cloud.ai4eosc.eu:443 \
-#            -servername templates.cloud.ai4eosc.eu
+      - name: OpenSSL connection
+        run: |
+          openssl s_client \
+            -connect templates.cloud.ai4eosc.eu:443 \
+            -servername templates.cloud.ai4eosc.eu
     
       - name: Debug Node HTTPS
         run: |
@@ -94,17 +94,17 @@ jobs:
             req.end();
           '
 
-#      - name: Test https module
-#        run: |
-#          node -e '
-#            const https = require("https");
-#
-#            const req = https.get(process.env.URL, res => {
-#              console.log("status", res.statusCode);
-#              res.resume();
-#            });
-#            req.on("error", console.error);
-#          '
+      - name: Test https module
+        run: |
+          node -e '
+            const https = require("https");
+
+            const req = https.get(process.env.URL, res => {
+              console.log("status", res.statusCode);
+              res.resume();
+            });
+            req.on("error", console.error);
+          '
 
       - name: Node IPv4 first
         run: |
