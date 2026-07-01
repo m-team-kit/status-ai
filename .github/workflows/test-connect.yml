@@ -22,6 +22,45 @@ jobs:
           echo "HOST=${HOST}"
           echo "URL=${URL}"
 
+      - name: Show proxy environment
+        run: |
+          env | grep -i proxy || true
+
+      - name: Show versions
+        run: |
+          node --version
+          npm --version
+          curl --version
+
+      - name: Test DNS from Node
+        run: |
+          node -e '
+            require("dns").lookup(process.env.HOST, { all: true }, (err, addr) => {
+              console.log(err || addr);
+            });
+          '
+
+      - name: Test https module
+        run: |
+          node -e '
+            const https = require("https");
+
+            const req = https.get(process.env.URL, res => {
+              console.log("status", res.statusCode);
+              res.resume();
+            });
+            req.on("error", console.error);
+          '
+
+      - name: Node IPv4 first
+        run: |
+          export NODE_OPTIONS=--dns-result-order=ipv4first
+          node -e '
+            fetch(process.env.URL)
+              .then(r => console.log(r.status))
+              .catch(console.error);
+          '
+
       - name: Test using Node.js fetch
         run: |
           node -e '
