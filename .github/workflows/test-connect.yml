@@ -4,10 +4,15 @@ on:
   workflow_dispatch:
 
 env:
+  # Templates - problem
   #HOST: templates.cloud.ai4eosc.eu
   #URL: https://templates.cloud.ai4eosc.eu/
-  HOST: mlflow.cloud.ai4eosc.eu
-  URL: https://mlflow.cloud.ai4eosc.eu/
+  # MLflow - works
+  #HOST: mlflow.cloud.ai4eosc.eu
+  #URL: https://mlflow.cloud.ai4eosc.eu/
+  # Vault
+  HOST: secrets.services.ai4os.eu
+  URL: https://secrets.services.ai4os.eu:8200
 
 jobs:
   diagnostics:
