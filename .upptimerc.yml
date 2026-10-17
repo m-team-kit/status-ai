@@ -7,19 +7,21 @@ sites:
   - name: Software template generator (UI) (Templates Hub)
     url: https://templates.services.fedcloud.eu
     icon: https://raw.githubusercontent.com/m-team-kit/templates-hub/main/pictures/cookiecutter_simple_small.png
+    type: globalping
+    location: Western Europe
     maxResponseTime: 30000
 
   # cookiecutter-web API (Templates Hub)
   - name: Software template generator (API) (Templates Hub)
     url: https://templates.services.fedcloud.eu/api/latest/docs
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
+    type: globalping
+    location: Western Europe
 
   # cookiecutter-web Frontend (SCC)
   - name: Software template generator (UI) (SCC)
     url: https://templates.scc.kit.edu
     icon: https://raw.githubusercontent.com/m-team-kit/templates-hub/main/pictures/cookiecutter_simple_small.png
-    type: globalping
-    location: Western Europe
     maxResponseTime: 30000
 
   # cookiecutter-web API (SCC)
