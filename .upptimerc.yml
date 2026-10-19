@@ -72,7 +72,8 @@ sites:
     type: globalping
     location: Western Europe
 
-  # mlflow instance (AI4EOSC)(Prod)
+  # Status Monitoring (Grafana+Prometeus) (SCC)(Dev)
+  # ipv6: true is IMPORTANT!
   - name: Status Monitoring (Grafana+Prometeus) (SCC)(Dev)
     icon: https://status.test.fedcloud.eu/public/build/static/img/grafana_icon.1e0deb6b.svg
     url: https://status.test.fedcloud.eu/login
