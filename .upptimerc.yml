@@ -76,9 +76,6 @@ sites:
   - name: Status Monitoring (Grafana+Prometeus) (SCC)(Dev)
     icon: https://status.test.fedcloud.eu/public/build/static/img/grafana_icon.1e0deb6b.svg
     url: https://status.test.fedcloud.eu/login
-    expectedStatusCodes:
-      - 200
-      - 401
     type: globalping
     location: Western Europe
 
