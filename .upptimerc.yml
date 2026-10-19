@@ -77,7 +77,7 @@ sites:
     icon: https://status.test.fedcloud.eu/public/build/static/img/grafana_icon.1e0deb6b.svg
     url: https://status.test.fedcloud.eu/login
     type: globalping
-    location: Western Europe
+    location: Germany
 
 # Users to assign downtime issues (optional)
 assignees:
