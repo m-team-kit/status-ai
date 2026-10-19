@@ -72,6 +72,13 @@ sites:
     type: globalping
     location: Western Europe
 
+  # mlflow instance (AI4EOSC)(Prod)
+  - name: Status Monitoring (Grafana+Prometeus) (SCC)(Dev)
+    url: https://status.test.fedcloud.eu
+    expectedStatusCodes:
+      - 200
+      - 401
+    icon: https://status.test.fedcloud.eu/public/build/static/img/grafana_icon.1e0deb6b.svg
 
 # Users to assign downtime issues (optional)
 assignees:
