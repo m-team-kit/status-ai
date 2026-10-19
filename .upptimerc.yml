@@ -5,60 +5,60 @@ repo: status-ai # The name of this repository
 sites:
   # cookiecutter-web Frontend (Templates Hub)
   - name: Software template generator (UI) (Templates Hub)
-    url: https://templates.services.fedcloud.eu
     icon: https://raw.githubusercontent.com/m-team-kit/templates-hub/main/pictures/cookiecutter_simple_small.png
+    url: https://templates.services.fedcloud.eu
     type: globalping
     location: Western Europe
     maxResponseTime: 30000
 
   # cookiecutter-web API (Templates Hub)
   - name: Software template generator (API) (Templates Hub)
-    url: https://templates.services.fedcloud.eu/api/latest/docs
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
+    url: https://templates.services.fedcloud.eu/api/latest/docs
     type: globalping
     location: Western Europe
 
   # cookiecutter-web Frontend (SCC)
   - name: Software template generator (UI) (SCC)
-    url: https://templates.scc.kit.edu
     icon: https://raw.githubusercontent.com/m-team-kit/templates-hub/main/pictures/cookiecutter_simple_small.png
+    url: https://templates.scc.kit.edu
     maxResponseTime: 30000
 
   # cookiecutter-web API (SCC)
   - name: Software template generator (API) (SCC)
-    url: https://templates.scc.kit.edu/api/latest/docs
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
+    url: https://templates.scc.kit.edu/api/latest/docs
 
   # cookiecutter-web Frontend (AI4EOSC)
   - name: AI repository template generator (UI) (AI4EOSC)
-    url: https://templates.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    url: https://templates.cloud.ai4eosc.eu
     type: globalping
     location: Western Europe
 
   # mlflow instance (AI4EOSC)(Prod)
   - name: MLflow UI (AI4EOSC)(Prod)
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
     url: https://mlflow.cloud.ai4eosc.eu
     expectedStatusCodes:
       - 200
       - 401
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
 
   # mlflow instance (iMagine)(Prod)
   - name: MLflow UI (iMagine)(Prod)
+    icon: https://cdn.imagine-ai.eu/app/uploads/2023/02/logo-imagine-full-blue.png
     url: https://mlflow.cloud.imagine-ai.eu
     expectedStatusCodes:
       - 200
       - 401
-    icon: https://cdn.imagine-ai.eu/app/uploads/2023/02/logo-imagine-full-blue.png
 
   # mlflow instance (AI4EOSC)(Prod)
   - name: MLflow UI (SCC)(Prod)
+    icon: https://www.scc.kit.edu/img/%c3%96KO/scc-gebaeude-cn.jpg
     url: https://mlflow.scc.kit.edu
     expectedStatusCodes:
       - 200
       - 401
-    icon: https://www.scc.kit.edu/img/%c3%96KO/scc-gebaeude-cn.jpg
 
   # helpdesk instance (AI4EOSC)(Prod)
   - name: AI4EOSC Helpdesk (Prod)
@@ -67,18 +67,20 @@ sites:
 
   # community forum (AI4EOSC)(Prod)
   - name: AI Community (EOSC)(Prod)
-    url: https://community.cloud.ai4eosc.eu
     icon: https://community.cloud.ai4eosc.eu/uploads/default/original/1X/650b958dafabd75d48a8ca187bf969e80bf24bc4.svg
+    url: https://community.cloud.ai4eosc.eu
     type: globalping
     location: Western Europe
 
   # mlflow instance (AI4EOSC)(Prod)
   - name: Status Monitoring (Grafana+Prometeus) (SCC)(Dev)
+    icon: https://status.test.fedcloud.eu/public/build/static/img/grafana_icon.1e0deb6b.svg
     url: https://status.test.fedcloud.eu
     expectedStatusCodes:
       - 200
       - 401
-    icon: https://status.test.fedcloud.eu/public/build/static/img/grafana_icon.1e0deb6b.svg
+    type: globalping
+    location: Western Europe
 
 # Users to assign downtime issues (optional)
 assignees:
