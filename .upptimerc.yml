@@ -61,10 +61,12 @@ sites:
       - 401
 
   # DriftWatch Monitoring (AI4EOSC)
-  # BWcloud - ipv6 is important?
+  # BWcloud - globalping, ipv6 are important?
   - name: DriftWatch Monitoring (AI4EOSC)
     icon: https://drift-watch.cloud.ai4eosc.eu/assets/drift_watch-logo-B43zKwJm.svg
     url: https://drift-watch.cloud.ai4eosc.eu/
+    type: globalping
+    location: Western Europe
     ipv6: true
 
   # helpdesk instance (AI4EOSC)(Prod)
