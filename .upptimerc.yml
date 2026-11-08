@@ -61,9 +61,11 @@ sites:
       - 401
 
   # DriftWatch Monitoring (AI4EOSC)
+  # BWcloud - ipv6 is important?
   - name: DriftWatch Monitoring (AI4EOSC)
     icon: https://drift-watch.cloud.ai4eosc.eu/assets/drift_watch-logo-B43zKwJm.svg
     url: https://drift-watch.cloud.ai4eosc.eu/
+    ipv6: true
 
   # helpdesk instance (AI4EOSC)(Prod)
   - name: AI4EOSC Helpdesk (Prod)
