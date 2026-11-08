@@ -60,6 +60,11 @@ sites:
       - 200
       - 401
 
+  # DriftWatch Monitoring (AI4EOSC)
+  - name: DriftWatch Monitoring (AI4EOSC)
+    icon: https://drift-watch.cloud.ai4eosc.eu/assets/drift_watch-logo-B43zKwJm.svg
+    url: https://drift-watch.cloud.ai4eosc.eu/
+
   # helpdesk instance (AI4EOSC)(Prod)
   - name: AI4EOSC Helpdesk (Prod)
     url: https://helpdesk.cloud.ai4eosc.eu
